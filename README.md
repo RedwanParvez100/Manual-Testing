@@ -1,5 +1,4 @@
 # Manual-Testing
-
 This repository contains the documentation and test cases for the **Manual Testing** of an e-commerce website. The goal of this project is to ensure the application functions correctly and meets the user requirements.
 
 ## Sailor - Manual Testing Project
@@ -22,3 +21,12 @@ This repository contains documentation and artifacts related to the manual testi
 6. **Bug Report**: Records of identified issues, defects, and anomalies found during testing, along with their status and resolution.
 
 7. **Test Matrix**: A matrix that provides an overview of test coverage and the status of individual test cases.
+
+## Getting Started
+To get started with this project, follow these steps:
+
+1.   Clone this repository to your local machine,
+2.   Open and review the respective documents for detailed information.
+
+## Reporting Issues
+If you have any suggestions or questions about this project, please don't hesitate to contact me at redwanparvez100@gmail.com . Alternatively, you are welcome to contribute by improving this `README.md` file or other documents in the repository.
